@@ -10,7 +10,7 @@ int main()
         double doC, doK;
         doC = (i*1.0 - 32)*5/9;
         doK = doC + 273.15;
-        cout << fixed << setprecision(2) <<  i << " " << doC << " " << doK << endl;
+        cout << fixed << setprecision(2) <<  i << "\t" << doC << "\t" << doK << endl;
     }
     return 0;
 }
