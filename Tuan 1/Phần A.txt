@@ -1,0 +1,20 @@
+1. bool isA = (90 <= grade && grade <= 100);
+2. In ra 0
+3. Quá khả năng lưu trữ của int
+4. Biểu thức có giá trị là 1
+5. Không in ra gì cả
+6. - invalid operands of types 'int' and 'const char [6]' to binary 'operator*'|
+   - chưa khởi tạo giá trị của biến -> bị lỗi
+7. 
+0
+0.75
+0.75
+0.75
+8. chương trình bị lỗi: conflicting declaration 'char arg1
+9. chỉ tới biến: char arg1 = ’A’
+10. chỉ tới biến: 
+	int arg1;
+	arg1 = -1;
+
+11.  (5 / 9) có giá trị bằng 0.
+12. Here
